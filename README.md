@@ -43,3 +43,4 @@ Mientras opt != 6:
             Pedir fila y columna
             Llamar a cancelar_reserva(vuelo, fila, columna)
 ---
+U+1FAE1	 U+1FAE1	 U+1FAE1	  U+1FAE1	
