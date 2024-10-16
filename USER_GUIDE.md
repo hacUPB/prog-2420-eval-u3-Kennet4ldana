@@ -13,6 +13,8 @@ Una vez hayas hecho esto, puedes comenzar reservando asientos para un pasajero.
 # Ejemplos
 ## Crear vuelo
 ![alt text](image.png)
+## Mostrar vuelos
+![alt text](image-4.png)
 ## Mostrar asientos
 ![alt text](image-1.png)
 ## Reservar asiento
