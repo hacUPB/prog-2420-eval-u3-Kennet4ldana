@@ -42,9 +42,9 @@ Mientras opt != 6:
             Llamar a seleccionar_vuelo()
             Pedir fila y columna
             Llamar a cancelar_reserva(vuelo, fila, columna)
----
-U+1FAE1
+--------
 
+:+: 
 
 DOCUMENTACIÓN 
 
@@ -53,7 +53,7 @@ En general el trabajo se me dificulto en variedad de conceptos y de entender el 
 También se me fue dificultando el orden en como organizaba el trabajo de una mejor manera tanto en el readme, como en el repositorio y ser mas claro y conciso con lo que explicaba de cada codigo  
 
 
-U+1F643	
+
 
 
  
