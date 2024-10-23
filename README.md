@@ -44,3 +44,18 @@ Mientras opt != 6:
             Llamar a cancelar_reserva(vuelo, fila, columna)
 ---
 U+1FAE1
+
+
+DOCUMENTACIÓN 
+
+En general el trabajo se me dificulto en variedad de conceptos y de entender el funcionamiento bien de cada función, comando, lista, diccionario, bucle, etc, ya que no tuve muy claro cómo organizar bien el codigo tanto en el inicio como a medida que lo iba realizando, la matriz me quedo bien porque le pedí ayuda a un compañero (creo :v), por tanto, hay algunas cosas que me explicaron, pero no tengo claras todavía. Pero en general tuve que ir preguntando, buscando e intentando entender boléanos, entender en que momentos necesitaba usar str y len para que me corriera el código y no me generara error, también en cómo organizar que si el asiento o el vuelo que la persona deseaba no estaba disponible que le diera la opción de volver a elegir otra opción de igual forma de como escribirlo de forma detallada al programa para que no me generara algún error. En general me equivocaba mucho en sintaxis o en como formular el codigo de manera correcta y ordenada, por lo que le iba preguntado a compañeros de clase como a otros que ya la vieron, pero no aproveche de mejor manera el tiempo y con otras más actividades académicas no pude organizar plenamente el código con sus respectivas explicaciones y debidos ejemplos, también la imagen que me falto de crear vuelo, esta debida documentación más detallada en el code  y más profundizada la explicación de tal y de su uso. 
+
+También se me fue dificultando el orden en como organizaba el trabajo de una mejor manera tanto en el readme, como en el repositorio y ser mas claro y conciso con lo que explicaba de cada codigo  
+
+
+U+1F643	
+
+
+ 
+
+ 
